@@ -6,4 +6,4 @@ shift  z  x  c  v  b                        n  m  ,  .  /  shift
 
                   ctrl   alt       alt   ctrl
             bspc   del  home       pgup  enter spc
-                         end       pgdn  
+                         end       pgdn
