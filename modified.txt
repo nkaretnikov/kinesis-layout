@@ -4,6 +4,6 @@ home   a  s  d  f  g                        h  j  k  l  ;      "
 end    z  x  c  v  b                        n  m  ,  .  /    del
        ←  `  \  →                              ↓  [  ]  ↑
 
-                   alt  pgup       pgdn  alt
+                  ctrl  pgup       pgdn  ctrl
            bspc  shift   esc       tab   enter spc
-                        ctrl       ctrl
+                         alt       alt
